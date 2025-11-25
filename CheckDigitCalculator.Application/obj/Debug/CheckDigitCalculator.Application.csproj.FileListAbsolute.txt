@@ -1,0 +1,6 @@
+C:\Work\Practise\Serial Number Service\CheckDigitCalculator.Application\bin\Debug\CheckDigitCalculator.Application.dll
+C:\Work\Practise\Serial Number Service\CheckDigitCalculator.Application\bin\Debug\CheckDigitCalculator.Application.pdb
+C:\Work\Practise\Serial Number Service\CheckDigitCalculator.Application\obj\Debug\CheckDigitCalculator.Application.csproj.AssemblyReference.cache
+C:\Work\Practise\Serial Number Service\CheckDigitCalculator.Application\obj\Debug\CheckDigitCalculator.Application.csproj.CoreCompileInputs.cache
+C:\Work\Practise\Serial Number Service\CheckDigitCalculator.Application\obj\Debug\CheckDigitCalculator.Application.dll
+C:\Work\Practise\Serial Number Service\CheckDigitCalculator.Application\obj\Debug\CheckDigitCalculator.Application.pdb
