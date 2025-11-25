@@ -14,8 +14,7 @@ The application accept an 8-digit serial number and calculate a check digit
 - TextBox input logic in `InputNavigationService`
 
 ## How to Run
-1. Download the zip file
-2. Extract the `Serial Number Service.zip` file
+1. Clone the repository
 3. Open the solution `Serial Number Service.sln`
 4. Restore NuGet packages
 5. Press Run
