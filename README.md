@@ -15,7 +15,9 @@ The application accept an 8-digit serial number and calculate a check digit
 
 ## How to Run
 1. Download the zip file
-2. Extract the zip file
-3. Open the solution(.sln)
+2. Extract the `Serial Number Service.zip` file
+3. Open the solution `Serial Number Service.sln`
 4. Restore NuGet packages
 5. Press Run
+
+## HAVE FUN!!!
